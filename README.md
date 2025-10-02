@@ -1,3 +1,5 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/74648784?v=4" alt="Foto de Perfil de Samuel Rodríguez de Mora" width="160" height="160" style="border-radius:50%; border:5px solid #007bff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.6);" />
   <h1>
     <b>SAMUEL RODRÍGUEZ DE MORA</b>
   </h1>
@@ -20,11 +22,20 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding animation" align="right" style="width: 300px;"/>
-
-Lingüista Computacional con base en Filología Hispánica, experto en PLN, Machine Learning y modelos Transformer (BERT, GPT). Mi experiencia abarca la ingeniería de prompts, el desarrollo de agentes conversacionales y la creación de automatizaciones con herramientas no-code.
-
-<br clear="right"/>
+<!-- 
+  AQUÍ ESTÁ LA CORRECCIÓN: Usamos una tabla para crear dos columnas. 
+  Esto alinea el texto y la animación perfectamente y elimina el espacio en blanco.
+-->
+<table>
+  <tr>
+    <td valign="top">
+      Lingüista Computacional con base en Filología Hispánica, experto en PLN, Machine Learning y modelos Transformer (BERT, GPT). Mi experiencia abarca la ingeniería de prompts, el desarrollo de agentes conversacionales y la creación de automatizaciones con herramientas no-code.
+    </td>
+    <td valign="top" width="300px">
+      <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,4 +98,10 @@ Lingüista Computacional con base en Filología Hispánica, experto en PLN, Mach
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRdeMora&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de SRdeMora" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRdeMora&layout=compact&theme=github_dark" alt="Lenguajes más usados por SRdeMora" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRdeMora&theme=dark" alt="Racha de Contribuciones de SRdeMora" />
 </p>
