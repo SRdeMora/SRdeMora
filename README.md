@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74648784?v=4" alt="Foto de Perfil de Samuel Rodríguez de Mora" width="160" height="160" style="border-radius:50%; border:5px solid #007bff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.6);" />
   <h1>
     <b>SAMUEL RODRÍGUEZ DE MORA</b>
   </h1>
@@ -12,15 +10,22 @@
   <a href="mailto:devai.srm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/in/samuel-rodriguez-de-mora-nlp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="[URL_DE_TU_PORTFOLIO]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
 <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding animation" align="right" style="width: 300px;"/>
 
 Lingüista Computacional con base en Filología Hispánica, experto en PLN, Machine Learning y modelos Transformer (BERT, GPT). Mi experiencia abarca la ingeniería de prompts, el desarrollo de agentes conversacionales y la creación de automatizaciones con herramientas no-code.
 
 <br clear="right"/>
+
 ---
 
 ## 🚀 Habilidades Técnicas
@@ -74,13 +79,12 @@ Lingüista Computacional con base en Filología Hispánica, experto en PLN, Mach
 
 ## 🎓 Formación Académica
 
-### **Postgrado de Experto en Procesamiento del Lenguaje Natural**
+### **Diplomado en Experto en Procesamiento del Lenguaje Natural**
 *Universidad a Distancia de Madrid (UDIMA)* | *2024 - 2025*
 
 ### **Graduado en Lengua y Literatura Españolas**
 *Universidad Nacional de Educación a Distancia (UNED)* | *2018 - 2023*
 
 ---
-
 
 </p>
