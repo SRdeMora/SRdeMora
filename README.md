@@ -1,223 +1,94 @@
-<style>
-    /* --- ESTILOS GENERALES Y VARIABLES DE COLOR --- */
-    :root {
-        --primary-color: #007bff;      /* Azul principal para enlaces y acentos */
-        --secondary-color: #adb5bd;    /* Gris claro para texto secundario y fechas */
-        --background-color: #121212;  /* Fondo oscuro profundo */
-        --card-background: #1e1e1e;   /* Fondo de tarjetas ligeramente más claro */
-        --text-color: #e0e0e0;        /* Color de texto principal */
-        --heading-color: #ffffff;     /* Encabezados en blanco puro */
-        --border-color: #333333;      /* Borde sutil */
-        --accent-color: #00bcd4;      /* Cian para detalles y subtítulos */
-        --link-hover-color: #0056b3;  /* Azul más oscuro para hover */
-    }
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/74648784?v=4" alt="Foto de Perfil de Samuel Rodríguez de Mora" width="160" height="160" style="border-radius:50%; border:5px solid #007bff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.6);" />
+  <h1>
+    <b>SAMUEL RODRÍGUEZ DE MORA</b>
+  </h1>
+  <h3>
+    ESPECIALISTA EN PROCESAMIENTO DEL LENGUAJE NATURAL (PLN)
+  </h3>
+</div>
 
-    body {
-        font-family: 'Montserrat', sans-serif;
-        background-color: var(--background-color);
-        color: var(--text-color);
-        line-height: 1.7;
-        margin: 0;
-        padding: 20px;
-    }
+<p align="center">
+  <a href="mailto:devai.srm@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-rodriguez-de-mora-nlp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[URL_DE_TU_PORTFOLIO]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-    .container {
-        width: 100%;
-        max-width: 1000px;
-        margin: auto;
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 25px;
-    }
+---
 
-    @media (min-width: 800px) {
-        .container {
-            grid-template-columns: 300px 1fr; /* Sidebar fija y contenido principal flexible */
-        }
-    }
+Lingüista Computacional con base en Filología Hispánica, experto en PLN, Machine Learning y modelos Transformer (BERT, GPT). Mi experiencia abarca la ingeniería de prompts, el desarrollo de agentes conversacionales y la creación de automatizaciones con herramientas no-code.
 
-    /* --- ESTILOS DE LA BARRA LATERAL (SIDEBAR) --- */
-    .sidebar, .main-content-section {
-        background-color: var(--card-background);
-        border-radius: 12px;
-        padding: 30px;
-        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
-        border: 1px solid var(--border-color);
-    }
+---
 
-    .sidebar {
-        text-align: center;
-    }
+## 🚀 Habilidades Técnicas
 
-    .profile-pic {
-        width: 160px;
-        height: 160px;
-        border-radius: 50%;
-        object-fit: cover;
-        border: 5px solid var(--primary-color);
-        margin-bottom: 20px;
-        box-shadow: 0 0 20px rgba(0, 123, 255, 0.6);
-    }
-    
-    h1 {
-        color: var(--heading-color);
-        font-size: 2em;
-        margin: 0;
-    }
+### 🧠 Áreas de PLN / Machine Learning
+<p align="left">
+  <code>Análisis de Sentimiento</code>
+  <code>Named Entity Recognition (NER)</code>
+  <code>Topic Modeling</code>
+  <code>Word Embeddings</code>
+  <code>Modelos Transformer</code>
+  <code>Chatbots y Asistentes Virtuales</code>
+  <code>Web Scraping</code>
+</p>
 
-    .subtitle {
-        font-family: 'Roboto Mono', monospace;
-        color: var(--accent-color);
-        font-size: 0.9em;
-        margin-top: 5px;
-        margin-bottom: 20px;
-        font-weight: 600;
-    }
+### 📚 Bibliotecas y Frameworks
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/> </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="keras"/> </a>
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/🤗%20Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/> </a>
+    <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spacy"/> </a>
+    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge" alt="nltk"/> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
+</p>
 
-    .bio {
-        font-size: 0.95em;
-        margin-bottom: 25px;
-        color: var(--secondary-color);
-    }
+### 🛠️ Herramientas y Tecnologías
+<p align="left">
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/> </a>
+    <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/n8n-1A8272?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/> </a>
+</p>
 
-    .contact-info a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: var(--text-color);
-        text-decoration: none;
-        margin-bottom: 12px;
-        font-weight: 600;
-        transition: color 0.3s ease;
-    }
+---
 
-    .contact-info a:hover {
-        color: var(--primary-color);
-    }
+## 💼 Experiencia Laboral
 
-    .contact-info i {
-        margin-right: 10px;
-        color: var(--primary-color);
-        width: 20px;
-        text-align: center;
-    }
+### **Gerente A** | Mercadona S.A
+*2010 - 2024*
+- **Análisis de Datos y Experiencia Cliente:** Utilicé KPIs para la toma de decisiones estratégicas y lideré la resolución de incidencias críticas mediante el análisis de su causa raíz.
+- **Optimización Logística y de Rutas:** Diseñé y optimicé las rutas de reparto, modelando trayectos eficientes con análisis de datos en Excel para maximizar la productividad.
+- **Gestión de Proyectos:** Lideré la implementación de nuevas iniciativas comerciales y operativas, coordinando recursos para asegurar una ejecución exitosa.
 
-    /* --- ESTILOS DEL CONTENIDO PRINCIPAL --- */
-    h2 {
-        font-size: 1.8em;
-        color: var(--heading-color);
-        border-bottom: 3px solid var(--border-color);
-        padding-bottom: 12px;
-        margin-bottom: 25px;
-    }
+### **Técnico de Mantenimiento de TPVs** | POAS Mantenimiento
+*2006 - 2008*
+- **Diagnóstico Avanzado y Recuperación:** Realicé diagnóstico sistemático de incidencias, especializándome en la recuperación de equipos 'irrecuperables'.
+- **Formación y Mentoría Técnica:** Como referente técnico, formé a nuevas incorporaciones, traduciendo conceptos complejos de electrónica a procedimientos prácticos.
 
-    h3 {
-        font-size: 1.3em;
-        color: var(--accent-color);
-        margin-bottom: 10px;
-    }
+---
 
-    /* Sección de Habilidades Técnicas */
-    .skills-category {
-        margin-bottom: 20px;
-    }
+## 🎓 Formación Académica
 
-    .skills-category h4 {
-        color: var(--heading-color);
-        font-weight: 600;
-        margin-bottom: 15px;
-    }
+### **Diplomado en Experto en Procesamiento del Lenguaje Natural**
+*Universidad a Distancia de Madrid (UDIMA)* | *2024 - 2025*
 
-    .skills-grid {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 12px;
-    }
+### **Graduado en Lengua y Literatura Españolas**
+*Universidad Nacional de Educación a Distancia (UNED)* | *2018 - 2023*
 
-    .skill-item {
-        display: flex;
-        align-items: center;
-        background-color: var(--background-color);
-        padding: 8px 15px;
-        border-radius: 8px;
-        font-size: 0.9em;
-        font-weight: 600;
-        color: var(--text-color);
-        border: 1px solid var(--border-color);
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
+---
 
-    .skill-item:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 6px 15px rgba(0, 188, 212, 0.2);
-        border-color: var(--accent-color);
-    }
-    
-    .skill-item i {
-        font-size: 1.5em;
-        margin-right: 10px;
-        color: var(--accent-color);
-    }
+## 📊 Estadísticas de GitHub
 
-    /* Secciones de Experiencia y Educación */
-    .timeline-item {
-        margin-bottom: 30px;
-        padding-left: 25px;
-        position: relative;
-        border-left: 2px solid var(--border-color);
-    }
-    
-    .timeline-item::before {
-        content: '';
-        position: absolute;
-        left: -9px; /* Centra el círculo en la línea */
-        top: 5px;
-        width: 16px;
-        height: 16px;
-        background-color: var(--primary-color);
-        border-radius: 50%;
-        border: 3px solid var(--card-background);
-    }
-
-    .timeline-item h3 {
-        margin-bottom: 2px;
-    }
-
-    .item-subtitle, .item-date {
-        color: var(--secondary-color);
-        font-size: 0.95em;
-        margin-bottom: 8px;
-    }
-
-    .timeline-item ul {
-        list-style: none;
-        padding-left: 0;
-        margin-top: 10px;
-    }
-
-    .timeline-item ul li {
-        position: relative;
-        padding-left: 20px;
-        margin-bottom: 8px;
-    }
-
-    .timeline-item ul li::before {
-        content: '›';
-        color: var(--accent-color);
-        position: absolute;
-        left: 0;
-        font-size: 1.4em;
-        line-height: 1;
-    }
-
-    /* Sección de Estadísticas de GitHub */
-    .github-stats {
-        text-align: center;
-    }
-    
-    .github-stats img {
-        max-width: 100%;
-        margin: 10px 0;
-        border-radius: 8px;
-    }
-</style>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRdeMora&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de SRdeMora" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRdeMora&layout=compact&theme=github_dark" alt="Lenguajes más usados por SRdeMora" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRdeMora&theme=dark" alt="Racha de Contribuciones de SRdeMora" />
+</p>
