@@ -22,10 +22,6 @@
 
 ---
 
-<!-- 
-  NUEVO DISEÑO: Animación centrada arriba y biografía debajo.
-  Esto elimina el hueco y los cuadros de la tabla de forma definitiva.
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="coding animation" width="350"/>
 </div>
@@ -72,6 +68,20 @@
 
 ---
 
+<!-- 
+  NUEVA SECCIÓN: Habilidades Interpersonales.
+-->
+## 🤝 Habilidades Interpersonales
+<p>
+  <code>Liderazgo de Equipos</code> &nbsp;·&nbsp;
+  <code>Gestión de Proyectos</code> &nbsp;·&nbsp;
+  <code>Optimización de Procesos</code> &nbsp;·&nbsp;
+  <code>Resolución de Problemas</code> &nbsp;·&nbsp;
+  <code>Habilidades de Comunicación</code>
+</p>
+
+---
+
 ## 💼 Experiencia Laboral
 
 ### **Gerente A** | Mercadona S.A
@@ -97,5 +107,10 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRdeMora&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de SRdeMora" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRdeMora&layout=compact&theme=github_dark" alt="Lenguajes más usados por SRdeMora" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRdeMora&theme=dark" alt="Racha de Contribuciones de SRdeMora" />
 </p>
