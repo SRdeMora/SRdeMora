@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74648784?v=4" alt="Foto de Perfil de Samuel Rodríguez de Mora" width="160" height="160" style="border-radius:50%; border:5px solid #007bff; box-shadow: 0 0 20px rgba(0, 123, 255, 0.6);" />
   <h1>
     <b>SAMUEL RODRÍGUEZ DE MORA</b>
   </h1>
