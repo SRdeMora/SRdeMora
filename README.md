@@ -12,9 +12,6 @@
   <a href="mailto:devai.srm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/samuel-rodriguez-de-mora-nlp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="[URL_DE_TU_PORTFOLIO]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
@@ -45,6 +42,7 @@
   <code>Modelos Transformer</code>
   <code>Chatbots y Asistentes Virtuales</code>
   <code>Web Scraping</code>
+  <code>IA Generativa</code>
 </p>
 
 ### 📚 Bibliotecas y Frameworks
@@ -107,10 +105,5 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRdeMora&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de SRdeMora" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRdeMora&layout=compact&theme=github_dark" alt="Lenguajes más usados por SRdeMora" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRdeMora&theme=dark" alt="Racha de Contribuciones de SRdeMora" />
 </p>
