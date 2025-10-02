@@ -97,10 +97,5 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRdeMora&show_icons=true&theme=github_dark" alt="Estadísticas de GitHub de SRdeMora" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRdeMora&layout=compact&theme=github_dark" alt="Lenguajes más usados por SRdeMora" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRdeMora&theme=dark" alt="Racha de Contribuciones de SRdeMora" />
 </p>
