@@ -40,9 +40,9 @@
   <code>Topic Modeling</code>
   <code>Word Embeddings</code>
   <code>Modelos Transformer</code>
+  <code>IA Generativa</code>
   <code>Chatbots y Asistentes Virtuales</code>
   <code>Web Scraping</code>
-  <code>IA Generativa</code>
 </p>
 
 ### 📚 Bibliotecas y Frameworks
