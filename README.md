@@ -23,6 +23,9 @@
 
 Lingüista Computacional con base en Filología Hispánica, experto en PLN, Machine Learning y modelos Transformer (BERT, GPT). Mi experiencia abarca la ingeniería de prompts, el desarrollo de agentes conversacionales y la creación de automatizaciones con herramientas no-code.
 
+
+
+<br clear="right"/>
 ---
 
 ## 🚀 Habilidades Técnicas
