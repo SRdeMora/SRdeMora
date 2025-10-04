@@ -11,7 +11,7 @@
   <a href="mailto:devai.srm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://srdemora.github.io/Portafolio/" target="_blank">
+  <a href="https://srdemora.github.io/Portafolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
